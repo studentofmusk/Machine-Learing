@@ -1,0 +1,13 @@
+DRAGON REAL ESSATES
+
+1.Linear Regression:
+    Mean: 5.026337514869274
+    Standard Deviation: 1.0634589012474325
+
+2. Desition Tree:
+    Mean: 4.0413547374991605
+    Standard Deviation: 0.5969113043034822
+
+3. Random Forest Tree:
+    Mean: 3.3018913518797177
+    Standard Deviation: 0.7126253654049318
